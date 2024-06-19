@@ -31,5 +31,3 @@ const rl = readline.createInterface({
     })
     }
     solicitarPalpite()
-
-console.log('Me dê uma resposta')
